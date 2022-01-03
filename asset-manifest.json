@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Aawveii-dngl/monster-demo-react-proj/static/css/main.37f1754a.css",
-    "main.js": "/Aawveii-dngl/monster-demo-react-proj/static/js/main.eb6e798b.js",
-    "index.html": "/Aawveii-dngl/monster-demo-react-proj/index.html",
-    "main.37f1754a.css.map": "/Aawveii-dngl/monster-demo-react-proj/static/css/main.37f1754a.css.map",
-    "main.eb6e798b.js.map": "/Aawveii-dngl/monster-demo-react-proj/static/js/main.eb6e798b.js.map"
+    "main.css": "/monster-demo-react-proj/static/css/main.37f1754a.css",
+    "main.js": "/monster-demo-react-proj/static/js/main.eb6e798b.js",
+    "index.html": "/monster-demo-react-proj/index.html",
+    "main.37f1754a.css.map": "/monster-demo-react-proj/static/css/main.37f1754a.css.map",
+    "main.eb6e798b.js.map": "/monster-demo-react-proj/static/js/main.eb6e798b.js.map"
   },
   "entrypoints": [
     "static/css/main.37f1754a.css",
