@@ -3,6 +3,10 @@ import Card from './Card';
 // import {Robots} from '../Robots/Robots';
 
 export default function Cardlist({Robots}) {
+
+    // if(true){
+    //     throw new Error('Noooo')
+    // }
     // const Cardcomp = Robots.map((user,i)=>{
     //     return (
     //         <Card 

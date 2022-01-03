@@ -4,6 +4,7 @@ import { Robots } from './Robots/Robots';
 import SearchBox from './SearchBox/SearchBox';
 import Scroll from './Scroll/Scroll';
 import './App.css';
+import Error from './Error/Error';
 
 export default class App extends React.Component {
     constructor(props) {
@@ -39,7 +40,9 @@ export default class App extends React.Component {
                 <h1>ROBOFRIENDS</h1>
                 <SearchBox searchChange = {this.onSearchChange}/>
                 <Scroll>
+                <Error>
                     <Cardlist Robots = {filterRobots}/>
+                </Error>
                 </Scroll>
              </div>
         }
