@@ -27,7 +27,7 @@ export default function Card({id,email,name}) {
             <div>
             <h2>{name}</h2>
             <p>{email}</p>
-            
+            <p>I am Cool</p>
             </div>
         </div>
     )
